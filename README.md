@@ -14,7 +14,8 @@ Penjelasan Kode  :
 
 Screeenshot  :
 
-![latihan1](https://github.com/user-attachments/assets/ca8d7ccc-c95e-401f-977d-8254e3f74735)
+![latihan1](https://github.com/user-attachments/assets/bca12030-8a46-417a-9317-49255e0dc3ca)
+
 
 
 
@@ -29,7 +30,8 @@ Penjelasan Kode  :
 
 Screenshot  :
 
-![latihan2](https://github.com/user-attachments/assets/50edeaeb-76c6-4636-bcd8-77e8d52af96f)
+![latihan2](https://github.com/user-attachments/assets/4ff2504d-c06a-4611-88c9-571bc5eb832f)
+
 
 
     Program1.py
@@ -44,4 +46,5 @@ Jika dijalankan, kode ini akan menampilkan keuntungan bulanan serta total keuntu
 
 Screenshot  :
 
-![program](https://github.com/user-attachments/assets/3768fba7-bc9f-41bc-8f41-2f0d733095fe)
+![program1](https://github.com/user-attachments/assets/55d8a90d-8d53-467d-8b97-1f5cdc582079)
+
